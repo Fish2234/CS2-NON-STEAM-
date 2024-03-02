@@ -24,9 +24,9 @@ INSTALLATION INSTRUCTIONS:
 
 3.Run SteamCMD and wait for installation
 
-4.Login anonymous in steam network using command    login anonymous
+4.Login anonymous in steam network using command    **login anonymous
 
-5.Install CS2 using command      app_update 730 validate
+5.Install CS2 using command      **app_update 730 validate
 
 6.Paste crack file in the same director with 'game' folder
 
