@@ -10,7 +10,7 @@ CHARACTERISTICS:
 
 -working lan without internet
 
--working lan with internet with hamachi
+-working lan with internet with hamachi https://vpn.net/
 
 -skins mod installed https://gamebanana.com/mods/471417
 
