@@ -15,3 +15,21 @@ CHARACTERISTICS:
 -skins mod installed https://gamebanana.com/mods/471417
 
 -bypass SRD certificate verification
+
+INSTALLATION INSTRUCTIONS:
+
+1.Install SteamCMD https://developer.valvesoftware.com/wiki/SteamCMD
+
+2.Create a folder and paste SteamCMD
+
+3.Run SteamCMD and wait for installation
+
+4.Login anonymous in steam network using command    login anonymous
+
+5.Install CS2 using command      app_update 730 validate
+
+6.Paste crack file in the same director with 'game' folder
+
+7.Run crack and apply patch
+
+8.Run launcher and enjoy
