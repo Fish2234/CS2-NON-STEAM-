@@ -16,6 +16,8 @@ This is the CS2 version that doesn't need steam client and internet to work.
 
 -bypass SRD certificate verification
 
+**If you don't trust binaries download rar arhives, this contains source code and can be compiled with Visual Studio 2022**
+
 **INSTALLATION INSTRUCTIONS:**
 
 1.Install SteamCMD https://developer.valvesoftware.com/wiki/SteamCMD
